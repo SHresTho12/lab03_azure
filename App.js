@@ -9,7 +9,7 @@ app.use(express.json());
 
 //get req to print hello world
 app.get("/", (req, res) => {
-  res.send("Hello World!");
+  res.send("Hello To Azure test Lab");
 });
 
 //server listening
